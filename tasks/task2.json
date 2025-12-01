@@ -1,6 +1,6 @@
 {
   "id": "0002",
-  "title": "Normal distribution analysis",
+  "title": "آزمایش دوم: داده نرمال و هیستوگرام",
   "intent": "Generate normal data and plot histogram",
   "code": "task2.py",
   "outputs": {

@@ -1,0 +1,13 @@
+{
+  "id": "0001",
+  "title": "Random stats baseline",
+  "intent": "Generate random data and compute mean/std",
+  "inputs": {
+    "size": 10
+  },
+  "code": "task1.py",
+  "outputs": {
+    "results": "runs/0001/results.txt",
+    "report": "runs/0001/report.md"
+  }
+}

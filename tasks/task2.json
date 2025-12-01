@@ -1,0 +1,11 @@
+{
+  "id": "0002",
+  "title": "Normal distribution analysis",
+  "intent": "Generate normal data and plot histogram",
+  "code": "task2.py",
+  "outputs": {
+    "results": "runs/0002/results.txt",
+    "report": "runs/0002/report.md",
+    "plot": "runs/0002/histogram.png"
+  }
+}
